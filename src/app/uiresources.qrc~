@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/ui">
-    <file>ddCameraControlPanel.ui</file>>
-    <file>ddScreenGrabber.ui</file>
-    <file>ddMeasurementPanel.ui</file>
-    <file>ddCameraPanel.ui</file>
-  </qresource>
-</RCC>
